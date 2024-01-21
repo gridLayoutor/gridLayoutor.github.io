@@ -1,2 +1,2 @@
 # ページ
-<a href="gridLayoutor.github">こちら</a>
+<a href="https://gridLayoutor.github.io">こちら</a>
